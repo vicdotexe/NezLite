@@ -1,0 +1,12 @@
+C:\Users\VictorKorn\dev\personal\NezLite\NezLite\obj\Debug\net6.0\NezLite.csproj.AssemblyReference.cache
+C:\Users\VictorKorn\dev\personal\NezLite\NezLite\obj\Debug\net6.0\NezLite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VictorKorn\dev\personal\NezLite\NezLite\obj\Debug\net6.0\NezLite.AssemblyInfoInputs.cache
+C:\Users\VictorKorn\dev\personal\NezLite\NezLite\obj\Debug\net6.0\NezLite.AssemblyInfo.cs
+C:\Users\VictorKorn\dev\personal\NezLite\NezLite\obj\Debug\net6.0\NezLite.csproj.CoreCompileInputs.cache
+C:\Users\VictorKorn\dev\personal\NezLite\NezLite\bin\Debug\net6.0\Nez.deps.json
+C:\Users\VictorKorn\dev\personal\NezLite\NezLite\bin\Debug\net6.0\Nez.dll
+C:\Users\VictorKorn\dev\personal\NezLite\NezLite\bin\Debug\net6.0\Nez.pdb
+C:\Users\VictorKorn\dev\personal\NezLite\NezLite\obj\Debug\net6.0\Nez.dll
+C:\Users\VictorKorn\dev\personal\NezLite\NezLite\obj\Debug\net6.0\refint\Nez.dll
+C:\Users\VictorKorn\dev\personal\NezLite\NezLite\obj\Debug\net6.0\Nez.pdb
+C:\Users\VictorKorn\dev\personal\NezLite\NezLite\obj\Debug\net6.0\ref\Nez.dll

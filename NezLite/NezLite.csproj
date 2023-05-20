@@ -1,0 +1,26 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+	  <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+	  <AssemblyName>Nez</AssemblyName>
+	  <RootNamespace>Nez</RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Remove="TBD\**" />
+    <EmbeddedResource Remove="TBD\**" />
+    <None Remove="TBD\**" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="Content\NezDefaultBMFont.xnb" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Content\NezDefaultBMFont.xnb" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="MonoGame.Framework.DesktopGL" Version="3.8.1.303">
+      <PrivateAssets>All</PrivateAssets>
+    </PackageReference>
+	  <PackageReference Include="System.Drawing.Common" Version="5.0.2" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "a2QrbHYzjsf69GGlnYWa+LK/jXV9gIDt8rewpJA+/CJJm/afZxkXalWFK/NKuFE7knoC1mLcx2HS0SfuCcisvw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\VictorKorn\\dev\\personal\\NezLite\\NezLite\\NezLite.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\VictorKorn\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\VictorKorn\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\VictorKorn\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.1.303\\monogame.framework.desktopgl.3.8.1.303.nupkg.sha512",
+    "C:\\Users\\VictorKorn\\.nuget\\packages\\system.drawing.common\\5.0.2\\system.drawing.common.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
